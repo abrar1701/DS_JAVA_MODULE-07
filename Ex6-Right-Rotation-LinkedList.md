@@ -18,7 +18,7 @@ Display the rotated linked list.
 5.Break the circle and print the list from the new head.
 
 ## Program:
-```
+```java
 /*
 Program to  Right Rotation LinkedList
 Developed by: Mohamed Abrar M
