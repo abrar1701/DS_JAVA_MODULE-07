@@ -15,7 +15,7 @@ If there is no cycle, the program should return null without modifying the linke
 5. Move both one step at a time until they meet — this node is the cycle start.  
 
 ## Program:
-```
+```java
 /*
 program that detects a cycle in a linked list and returns the node where the cycle begins.
 If there is no cycle, the program should return null without modifying the linked list.
